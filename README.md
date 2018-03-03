@@ -11,5 +11,5 @@
 
 * #### weChat:
 
-* ![ailink official wechat group](http://www.ailink.in/images/officialservice.jpg)
+* ![ailink official wechat group](https://github.com/ailinkofficial/ailink/raw/master/imgs/a2.jpg)
 
