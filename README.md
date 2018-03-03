@@ -3,8 +3,6 @@
 
 ## A trusted open social platform based on blockchain
 
----
-
 * #### Facebook:&nbsp;[https://m.facebook.com/ailinkofficial/](https://m.facebook.com/ailinkofficial/)
 * #### Twitter:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://twitter.com/ailinkofficial
 * #### Telegram:&nbsp;&nbsp;https://t.me/ailinkofficial 
